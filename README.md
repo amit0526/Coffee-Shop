@@ -1,2 +1,2 @@
-# Coffee-Shop
-CoffeeHub – Responsive Coffee Shop Website
+## 🔴 Live Demo
+https://amit0526.github.io/Coffee-Shop/
